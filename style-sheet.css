@@ -1,0 +1,35 @@
+body {
+  background-image: url(file:///Users/lucientalavera/Desktop/photo-1528722828814-77b9b83aafb2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+table {
+  font-family: monospace;
+  border-collapse: inherit;
+  text-align:  center;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: cursive;
+  color: white;
+  text-align: center;
+}
+.planetImgColumn {
+    text-align: center;
+}
+.Infolink {
+  color: white;
+}
+.theplanets {/* Planet names in table */
+    border-style: solid;
+    border-width: 2px;
+    padding: 5px;
+    text-align: center;
+}
